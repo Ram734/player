@@ -8,7 +8,7 @@ int c=sc.nextInt();
 int fact=1;
 if(c==0 || c==1)
 {
-System.out.print(0);
+System.out.print(1);
 }
 else if(c>1)
 {
