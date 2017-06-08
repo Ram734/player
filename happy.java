@@ -17,7 +17,7 @@ class happy
         }
             if(a==1)
             {
-                System.out.print("True");
+                System.out.print(a +"is a Happy number");
                 System.exit(0);
             }
             else
